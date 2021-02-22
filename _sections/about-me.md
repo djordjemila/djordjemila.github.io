@@ -6,15 +6,15 @@ order: 2
 
 I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html) and an avid AI enthusiast. 
 I design, develop and engineer AI software solutions and offer consulting services. 
-My main research interest are [deep probabilistic (generative) models](https://deepgenerativemodels.github.io/notes/introduction/) of natural data such as images, language and videos: Most recently I built [novel neural network architectures](https://openreview.net/forum?id=I4c4K9vBNny) and training procedures.
-I am exceptionally interested in medical/biological applications and I strongly believe in the potential of AI to exploit vast amounts of raw/unlabeled data to enable personalized and efficient decision-making and accelerate scientific discovery e.g. see [our web platform for high-throughput automatic analysis of sleep recordings](https://sleeplearning.ethz.ch/) used by academic and industrial researchers worldwide, on a daily basis.
+My main research interest are [deep probabilistic (generative) models](https://deepgenerativemodels.github.io/notes/introduction/) for natural data such as images, language and videos e.g. I develop [novel neural network architectures](https://openreview.net/forum?id=I4c4K9vBNny) and learning procedures.
+I am also exceptionally interested in medical/biological applications and I strongly believe in the potential of utilizing AI to exploit vast amounts of raw data to enable causal analysis, personalized and efficient decision-making, and to accelerate scientific discovery e.g. see [our web platform for high-throughput automatic analysis of sleep recordings](https://sleeplearning.ethz.ch/) used by academic and industrial researchers worldwide, on a daily basis.
 <br><br>
 
 ![image](assets/images/main.jpg){: style="float: right;  width: 400px; margin-left: 5%; margin-below: 10px; max-width: 100%; min-width: 30%" }
 
 At ETH I work under the guidance of 
 [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
-Throughout the last 4 years there, I also collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), 
+Throughout the last 4 years there, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), 
 with the [Max Planck Institute for Intelligent Systems](http://ei.is.tuebingen.mpg.de/) led by [Prof. 
 Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs) to which I am [affiliated](https://ei.is.mpg.de/person/dmiladinovic), 
 and with [the group of Prof. Steven Brown](https://www.pharma.uzh.ch/en/research/chronobiology/areas/chronobiology.html) in an interdisciplinary collaboration.
@@ -28,4 +28,4 @@ while in Serbian we would write it Đorđe Miladinović if you prefer [latin alp
 or Ђорђе Миладиновић if you fancy [cyrillic letters](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). If you can pronounce [Django](https://www.imdb.com/title/tt1853728/), you can also pronounce Djordje.
 <br><br>
 
-You can also find me on Google Scholar / [LinkedIn](https://www.linkedin.com/in/djordjemila/) / [Twitter](https://twitter.com/djordjemila), contact me via email, or browse my CV.
+You can also find me on Google Scholar / [LinkedIn](https://www.linkedin.com/in/djordjemila/) / [Twitter](https://twitter.com/djordjemila), contact me via email or browse my CV.
