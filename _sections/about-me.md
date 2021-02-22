@@ -4,7 +4,7 @@ icon: fa-user
 order: 1
 ---
 
-![image](assets/images/main.jpg){: style="float: right;  width: 30%; margin-left: 5%;" }
+![image](assets/images/main.jpg){: style="float: right;  width: 300px; margin-left: 5%;" }
 
 I am an AI enthusiast. 
 I develop and engineer AI software solutions and offer consulting services. 
