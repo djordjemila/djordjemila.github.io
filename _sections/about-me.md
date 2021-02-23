@@ -1,7 +1,7 @@
 ---
 title: About Me
 icon: fa-user
-order: 2
+order: 1
 ---
 
 I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html) and an avid AI enthusiast. 
@@ -10,7 +10,7 @@ My main research interest are [deep probabilistic (generative) models](https://d
 I am also exceptionally interested in medical/biological applications and I strongly believe in the potential of utilizing AI to exploit vast amounts of raw data to enable causal analysis, personalized and efficient decision-making, and to accelerate scientific discovery e.g. see [our web platform for high-throughput automatic analysis of sleep recordings](https://sleeplearning.ethz.ch/) used by academic and industrial researchers worldwide, on a daily basis.
 <br><br>
 
-![image](assets/images/main.jpg){: style="float: right;  width: 400px; margin-left: 5%; margin-below: 10px; max-width: 100%; min-width: 30%" }
+![image](assets/images/main.jpg){: style="float: right;  width: 400px; margin-left: 5%;  margin-below: 15px; max-width: 100%; min-width: 30%" }
 
 At ETH I work under the guidance of 
 [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
@@ -28,4 +28,4 @@ while in Serbian we would write it Đorđe Miladinović if you prefer [latin alp
 or Ђорђе Миладиновић if you fancy [cyrillic letters](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). If you can pronounce [Django](https://www.imdb.com/title/tt1853728/) or [Djokovic](https://novakdjokovic.com/en/) then you can also pronounce Djordje.
 <br><br>
 
-You can also find me on Google Scholar / [GitHub](https://github.com/djordjemila/) / [LinkedIn](https://www.linkedin.com/in/djordjemila/) / [Twitter](https://twitter.com/djordjemila), email me or browse my CV.
+Find me also on Google Scholar / [GitHub](https://github.com/djordjemila/) / [LinkedIn](https://www.linkedin.com/in/djordjemila/) / [Twitter](https://twitter.com/djordjemila), email me or browse my CV.
