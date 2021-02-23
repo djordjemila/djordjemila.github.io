@@ -1139,11 +1139,15 @@
 	}
 	#main {
 		li {
-			font-size: 0.7em;
+			font-size: 0.65em;
 			color: black;
 		}
 	}
 	strong {
 		color: black;
 		font-weight: 800;
+	}
+	.item {
+	  overflow: hidden;
+	  text-overflow: ellipsis;
 	}

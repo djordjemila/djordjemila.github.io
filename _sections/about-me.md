@@ -7,7 +7,7 @@ order: 1
 I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html) and an avid AI enthusiast. 
 I design, develop and engineer AI software solutions and offer consulting services. 
 My main research interest are [deep probabilistic (generative) models](https://deepgenerativemodels.github.io/notes/introduction/) for natural data such as images, language and videos e.g. I develop [novel neural network architectures](https://openreview.net/forum?id=I4c4K9vBNny) and learning procedures.
-I am also exceptionally interested in medical/biological applications and I strongly believe in the potential of utilizing AI to exploit vast amounts of raw data to enable causal analysis, personalized and efficient decision-making, and to accelerate scientific discovery e.g. see [our web platform for high-throughput automatic analysis of sleep recordings](https://sleeplearning.ethz.ch/) used by academic and industrial researchers worldwide, on a daily basis.
+I am also exceptionally interested in medical/biological applications and I am a strong believer in the potential of utilizing AI to exploit vast amounts of raw data to enable causal analysis, personalized and efficient decision-making, and to accelerate scientific discovery e.g. see [our web platform for high-throughput automatic analysis of sleep recordings](https://sleeplearning.ethz.ch/) used by academic and industrial researchers worldwide, on a daily basis.
 <br><br>
 
 ![image](assets/images/main.jpg){: style="float: right;  width: 400px; margin-left: 5%;  margin-below: 15px; max-width: 100%; min-width: 30%" }
