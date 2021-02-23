@@ -1,0 +1,10 @@
+@article{miladinovic2019spindle,
+  title={SPINDLE: End-to-end learning from EEG/EMG to extrapolate animal sleep scoring across experimental settings, labs and species},
+  author={Miladinovi{\'c}, {\DJ}or{\dj}e and Muheim, Christine and Bauer, Stefan and Spinnler, Andrea and Noain, Daniela and Bandarabadi, Mojtaba and Gallusser, Benjamin and Krummenacher, Gabriel and Baumann, Christian and Adamantidis, Antoine and others},
+  journal={PLoS computational biology},
+  volume={15},
+  number={4},
+  pages={e1006968},
+  year={2019},
+  publisher={Public Library of Science}
+}

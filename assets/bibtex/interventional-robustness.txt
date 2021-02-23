@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v97-suter19a,
+  title = 	 {Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness},
+  author =       {Suter, Raphael and Miladinovic, Djordje and Sch{\"o}lkopf, Bernhard and Bauer, Stefan},
+  booktitle = 	 {Proceedings of the 36th International Conference on Machine Learning},
+  pages = 	 {6056--6065},
+  year = 	 {2019},
+  editor = 	 {Kamalika Chaudhuri and Ruslan Salakhutdinov},
+  volume = 	 {97},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {09--15 Jun},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v97/suter19a/suter19a.pdf},
+  url = 	 {
+http://proceedings.mlr.press/v97/suter19a.html
+}

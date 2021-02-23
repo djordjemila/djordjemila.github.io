@@ -1,0 +1,6 @@
+@article{miladinovic2019disentangled,
+  title={Disentangled state space representations},
+  author={Miladinovi{\'c}, {\DJ}or{\dj}e and Gondal, Muhammad Waleed and Sch{\"o}lkopf, Bernhard and Buhmann, Joachim M and Bauer, Stefan},
+  journal={arXiv preprint arXiv:1906.03255},
+  year={2019}
+}
