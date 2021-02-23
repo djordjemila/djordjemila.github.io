@@ -11,8 +11,8 @@ order: 2
 <div class="row">
   {% for post in site.posts %}
   {% if post.category=='ml' %}
-     <div class="4u 12u$(mobile)" >
-        <div class="item" style="border: 1px solid black;  height: 520px; background-color: white">
+     <div class="4u 12u$(mobile)" style="min-width: 370px;">
+        <div class="item" style="border: 1px solid black; min-width: 300px; height: 520px;  background-color: white ">
             <a class="image fit" ><img src="{{ post.img_path | relative_url }}" alt="Ipsum Feugiat" /></a>
             <header>
               <h3 style="color: black; font-size: 1em;  font-weight: 700;">{{post.title}}</h3>
@@ -38,7 +38,7 @@ humans spend roughly one third of their lives sleeping and yet so little is know
 <div class="row">
   {% for post in site.posts %}
   {% if post.category=='bio' %}
-     <div class="4u 12u$(mobile)">
+     <div class="4u 12u$(mobile)" style="min-width: 370px;">
         <div class="item" style="border: 1px solid black; height: 520px; background-color: white">
             <a class="image fit" ><img src="{{ post.img_path | relative_url }}" alt="Ipsum Feugiat" /></a>
             <header>
