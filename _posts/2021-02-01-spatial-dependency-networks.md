@@ -10,5 +10,5 @@ category: ml
 ---
 
 Convolutional networks transformed the field of computer vision owing to their exceptional ability to identify patterns in images.
-However, when the task is image generation, there exist a better alternative: spatial dependency networks.
+However, for image generation, there exist a better alternative: spatial dependency networks.
 We use SDN to obtain a new state-of-the-art VAE.
