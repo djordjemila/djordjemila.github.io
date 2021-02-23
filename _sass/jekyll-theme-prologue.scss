@@ -667,7 +667,7 @@
 			p {
 					margin: 5px;
 				    line-height: 1.5em;
-				    text-align:justify;
+				    text-align:left;
 					font-size: 17px;
 					color: black;
 				}
@@ -719,10 +719,16 @@
 
 			&.shade-one {
 				background-color: white;
+				p {
+					text-align:justify;
+				}
 			}
 
 			&.shade-two {
 				background-color: white;
+				p {
+					text-align:justify;
+				}
 			}
 
 			&.shade-three {
