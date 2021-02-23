@@ -25,7 +25,7 @@ I obtained my master's degree from ETH Zurich and my bachelor's degree from [Sch
 
 I am originally from Serbia; I was born in [Belgrade](https://en.wikipedia.org/wiki/Belgrade) in 1990. but grew up in [Kruševac](https://en.wikipedia.org/wiki/Kru%C5%A1evac). Correct English spelling of my name is Djordje Miladinovic 
 while in Serbian we would write it Đorđe Miladinović if you prefer [latin alphabet](https://en.wikipedia.org/wiki/Gaj%27s_Latin_alphabet)
-or Ђорђе Миладиновић if you fancy [cyrillic letters](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). If you can pronounce [Django](https://www.imdb.com/title/tt1853728/), you can also pronounce Djordje.
+or Ђорђе Миладиновић if you fancy [cyrillic letters](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). If you can pronounce [Django](https://www.imdb.com/title/tt1853728/) or [Djokovic](https://novakdjokovic.com/en/) then you can also pronounce Djordje.
 <br><br>
 
 You can also find me on Google Scholar / [LinkedIn](https://www.linkedin.com/in/djordjemila/) / [Twitter](https://twitter.com/djordjemila), contact me via email or browse my CV.
