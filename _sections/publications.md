@@ -47,5 +47,6 @@ Stefan Bauer.<br>
 
 > **Efficient and Flexible Inference for Stochastic Systems**<br>
   Stefan Bauer, Nico S Gorbach, <ins>Ðorđe Miladinović</ins>, and Joachim M Buhmann.<br>
-  In Advances in Neural Information Processing Systems, pages 6988–6998, NeurIPS 2017.<br>
+  In Advances in Neural Information Processing Systems, pages 6988–6998, NeurIPS 2018.<br>
   [[Link to paper]](https://papers.nips.cc/paper/2017/hash/e0126439e08ddfbdf4faa952dc910590-Abstract.html)
+  <a href="https://github.com/djordjemila/djordjemila.github.io/tree/master/assets/bibtex/efficient-inference.tex" target="_blank">[bibtex]</a>
