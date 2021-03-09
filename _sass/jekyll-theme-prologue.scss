@@ -102,6 +102,15 @@
 		letter-spacing: -1px;
 	}
 
+	.main-img {
+		float: right;
+		width: 10px;
+		padding-bottom: 50px;
+		margin-left: 5%;
+		max-width: 100%;
+		min-width: 25%;
+	}
+
 	/* Mine */
 	#topnav {
 		list-style: none;
@@ -1146,6 +1155,11 @@
 		/* Mine */
 		#topnav {
 			width: 100%;
+		}
+
+		.main-img {
+			width: 100%;
+			padding-bottom: 50px;
 		}
 
 		ul {
