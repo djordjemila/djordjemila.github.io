@@ -5,6 +5,11 @@ layout: default
 {%- include header.html scrolly_nav=_sections -%}
 <!-- Main -->
 <div id="main">
+	<div class="container" id="topnav">
+		<div class="topnav-social">
+			{%- include social_icons.html -%}
+		</div>
+	</div>
 	{%- if page.content != "" -%}
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
 	{%- endif -%}

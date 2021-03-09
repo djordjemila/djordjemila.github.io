@@ -1,7 +1,7 @@
 ---
 title: Teaching & Mentoring
 icon: fa-user-graduate
-order: 3
+order: 4
 ---
 
 During my time at ETH Zurich, I was involved in the organization and teaching of the following courses:

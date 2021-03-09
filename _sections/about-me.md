@@ -1,25 +1,25 @@
 ---
 title: About Me
 icon: fa-user
-order: 1
+order: 2
 ---
 
-I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html) and an avid AI enthusiast. 
-I design, develop and engineer AI software solutions and offer consulting services. 
-My main research interest are [deep probabilistic (generative) models](https://deepgenerativemodels.github.io/notes/introduction/) for natural data such as images, language and videos e.g. I develop [novel neural network architectures](https://openreview.net/forum?id=I4c4K9vBNny) and learning procedures.
-I am also exceptionally interested in medical/biological applications and I am a strong believer in the potential of utilizing AI to exploit vast amounts of raw data to enable causal analysis, personalized and efficient decision-making, and to accelerate scientific discovery e.g. see [our web platform for high-throughput automatic analysis of sleep recordings](https://sleeplearning.ethz.ch/) used by academic and industrial researchers worldwide, on a daily basis.
+I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html). 
+I develop and engineer AI software solutions and offer consulting services. 
+My current research interest are [deep generative models](https://deepgenerativemodels.github.io/notes/introduction/) for natural data such as images and language e.g. see recently developed [spatial dependency nets](https://openreview.net/forum?id=I4c4K9vBNny) for image modeling.
+I am also enthusiastic about AI impact in medicine and biology -- see [our web platform for high-throughput analysis of sleep patterns](https://sleeplearning.ethz.ch/) used daily by academic and industrial researchers worldwide.
 <br><br>
 
-![image](assets/images/main.jpg){: style="float: right;  width: 400px; margin-left: 5%;  margin-below: 15px; max-width: 100%; min-width: 30%" }
+![image](assets/images/main.jpg){: style="float: right;  width: 300px; margin-left: 5%; max-width: 100%; min-width: 25%" }
 
 At ETH I work under the guidance of 
 [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
-Throughout the last 4 years there, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), 
+During my time at ETH, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), 
 with the [Max Planck Institute for Intelligent Systems](http://ei.is.tuebingen.mpg.de/) led by [Prof. 
 Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs) to which I am [affiliated](https://ei.is.mpg.de/person/dmiladinovic), 
 and with [the group of Prof. Steven Brown](https://www.pharma.uzh.ch/en/research/chronobiology/areas/chronobiology.html) in an interdisciplinary collaboration.
-Previously, I worked in the headquarters of [Logitech](https://www.logitech.com/en-ch) in Lausanne, 
-and also in [Disney Research in Zurich](https://studios.disneyresearch.com/about-us/) under the supervision of [Dr. Paul Beardsley](https://studios.disneyresearch.com/people/paul-beardsley/) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).
+Previously, I worked in [Logitech](https://www.logitech.com/en-ch) in Lausanne 
+and in [Disney Research in Zürich](https://studios.disneyresearch.com/about-us/) with [Dr. Paul Beardsley](https://studios.disneyresearch.com/people/paul-beardsley/) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).
 I obtained my master's degree from ETH Zurich and my bachelor's degree from [School of Electrical Engineering in Belgrade](https://www.etf.bg.ac.rs/en#gsc.tab=0), both in computer science.
 <br><br>
 
@@ -27,5 +27,3 @@ I am originally from Serbia; I was born in [Belgrade](https://en.wikipedia.org/w
 while in Serbian we would write it Đorđe Miladinović if you prefer [latin alphabet](https://en.wikipedia.org/wiki/Gaj%27s_Latin_alphabet)
 or Ђорђе Миладиновић if you fancy [cyrillic letters](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). If you can pronounce [Django](https://www.imdb.com/title/tt1853728/) or [Djokovic](https://novakdjokovic.com/en/) then you can also pronounce Djordje.
 <br><br>
-
-Find me also on Google Scholar / [GitHub](https://github.com/djordjemila/) / [LinkedIn](https://www.linkedin.com/in/djordjemila/) / [Twitter](https://twitter.com/djordjemila), email me or browse my CV.

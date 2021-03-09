@@ -1,7 +1,7 @@
 ---
 title: Publications
 icon: fa-book-open
-order: 4
+order: 5
 ---
 
 > **Dynamic Dropout: Regulating Teacher Forcing in Autoregressive Models**<br>

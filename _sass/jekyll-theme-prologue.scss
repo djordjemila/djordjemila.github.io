@@ -102,6 +102,19 @@
 		letter-spacing: -1px;
 	}
 
+	/* Mine */
+	#topnav {
+		list-style: none;
+		position: fixed;
+		width: 75%;
+		height: 60px;
+		background-color: white;
+	}
+	.topnav-social {
+		text-align: right;
+		padding: 0px;
+	}
+
 	h3 {
 		font-size: 1.5em;
 	}
@@ -301,9 +314,11 @@
 			}
 
 			a {
+				margin-top: 6px;
 				display: inline-block;
 				width: 2em;
 				height: 2em;
+				font-size: 24px;
 				line-height: 2em;
 				text-align: left;
 				border: 0;
@@ -431,6 +446,7 @@
 		display: inline-block;
 		border-radius: 0.35em;
 		color: #fff !important;
+		text-align: center;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
 		background-color: #8ebebc;
@@ -660,16 +676,17 @@
 			overflow: hidden;
 			padding: 4em 0;
 			box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
-			background-image: url('images/overlay.png');
-			font-family: Arial, 'Lato', Verdana, Helvetica, sans-serif;
+			font-family: Chivo, Arial, 'Lato', Verdana, Helvetica, sans-serif;
 
 			/* Mine */
 			p {
 					margin: 5px;
-				    line-height: 1.5em;
 				    text-align:left;
-					font-size: 17px;
+					font-size: 16px;
 					color: black;
+					line-height: 1.5em;
+					letter-spacing: .02em;
+					text-rendering: optimizeLegibility;
 				}
 
 			p:before {
@@ -720,14 +737,14 @@
 			&.shade-one {
 				background-color: white;
 				p {
-					text-align:justify;
+					text-align: left;
 				}
 			}
 
 			&.shade-two {
 				background-color: white;
 				p {
-					text-align:justify;
+					text-align: left;
 				}
 			}
 
@@ -882,6 +899,11 @@
 				margin-left: 20%;
 			}
 
+		/* Mine */
+		#topnav {
+			width: 80%;
+		}
+
 	}
 
 /* Narrower */
@@ -921,14 +943,6 @@
 
 		/* List */
 
-			ul {
-				&.icons {
-					a {
-						width: 1.75em;
-						font-size: 1.25em;
-					}
-				}
-			}
 
 		/* Header */
 
@@ -1065,6 +1079,11 @@
 					}
 				}
 			}
+
+		/* Mine */
+		#topnav {
+			width: 100%;
+		}
 	}
 
 /* Mobile */
@@ -1089,21 +1108,11 @@
 
 		/* List */
 
-			ul {
-				&.icons {
-					a {
-						width: 2em;
-						font-size: 1.25em;
-					}
-				}
-			}
 
 		/* Main */
 
 			#main {
-				> section, article {
-					padding: 2em 0;
-				}
+
 
 				section {
 					&.cover {
@@ -1134,6 +1143,20 @@
 				}
 			}
 
+		/* Mine */
+		#topnav {
+			width: 100%;
+		}
+
+		ul {
+				&.icons {
+					li {
+						a {
+							font-size: 19px;
+						}
+					}
+				}
+			}
 	}
 
 	/* Mine */

@@ -1,7 +1,7 @@
 ---
 title: Research Highlights
 icon: fa-th
-order: 2
+order: 3
 ---
 
 <p>The first line of my research are deep generative models with the particular focus on
