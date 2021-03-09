@@ -4,13 +4,14 @@ icon: fa-user
 order: 2
 ---
 
+![image](assets/images/main.jpg){: style="float: right;  width: 320px; margin-left: 20px; padding-bottom: 50px; margin-right: 10px; max-width: 100%; min-width: 25%" }
+
 I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html). 
 I develop and engineer AI software solutions and offer consulting services. 
 My current research interest are [deep generative models](https://deepgenerativemodels.github.io/notes/introduction/) for natural data such as images and language e.g. see recently developed [spatial dependency nets](https://openreview.net/forum?id=I4c4K9vBNny) for image modeling.
 I am also enthusiastic about AI impact in medicine and biology -- see [our web platform for high-throughput analysis of sleep patterns](https://sleeplearning.ethz.ch/) used daily by academic and industrial researchers worldwide.
 <br><br>
 
-![image](assets/images/main.jpg){: style="float: right;  width: 300px; margin-left: 5%; max-width: 100%; min-width: 25%" }
 
 At ETH I work under the guidance of 
 [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
