@@ -7,9 +7,9 @@ order: 2
 <a><img src="assets/images/main.jpg" class="main-img"/></a>
 
 I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html). 
-I develop and engineer AI software solutions and offer consulting services. 
-My current research interest are [deep generative models](https://deepgenerativemodels.github.io/notes/introduction/) for natural data such as images and language e.g. see recently developed [spatial dependency nets](https://openreview.net/forum?id=I4c4K9vBNny) for image modeling.
-I am also enthusiastic about AI impact in medicine and biology -- see [our web platform for high-throughput analysis of sleep patterns](https://sleeplearning.ethz.ch/) used daily by academic and industrial researchers worldwide.
+I develop AI software solutions and offer consulting services. 
+My current research interest are [deep generative models](https://deepgenerativemodels.github.io/notes/introduction/) for natural data e.g. see recently developed [spatial dependency nets](https://openreview.net/forum?id=I4c4K9vBNny) for image modeling.
+I am enthusiastic about the impact of AI in medicine and biology -- see [our web platform for high-throughput analysis of sleep patterns](https://sleeplearning.ethz.ch/) used daily by academic and industrial researchers worldwide.
 <br><br>
 
 
