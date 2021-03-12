@@ -4,7 +4,7 @@ icon: fa-book-open
 order: 5
 ---
 
-> **Spatially Dependent U-Nets: Highly Accurate Architectures for Medical Imaging Segmentation**<br>
+> **Spatially Dependent U-Nets: Highly Accurate Architectures for Medical Image Segmentation**<br>
   Joao Carvalho, Joao Santinha, <ins>Ðorđe Miladinović</ins> and Joachim M. Buhmann<br>
   Under review.
 
