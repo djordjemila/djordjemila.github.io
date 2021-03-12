@@ -1175,11 +1175,12 @@
 	}
 
 	/* Mine */
-	a:link {
-		   color:#0000FF;
+	a:link, a:visited {
+		   color:#0078bf;
 	}
-	a:visited {
-		color: #800080;
+	a:hover {
+		text-decoration: underline;
+		color: #004bff;
 	}
 	#main {
 		li {
