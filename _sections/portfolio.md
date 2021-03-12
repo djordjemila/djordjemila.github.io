@@ -17,7 +17,7 @@ order: 3
           <h3 style="color: black; font-size: 1em;  font-weight: 700;">{{post.title}}</h3>
           <p style="font-size: 0.7em; text-align: center; ">{{post.authors}} </p>
           <p style="font-size: 0.7em;">{{post.content}}</p>
-          <p>{% if post.paper %}<a href="{{post.paper}}">[{{post.conference}} link]</a>{% endif %}
+          <p>{% if post.paper %}<a href="{{post.paper}}">[{{post.conference}}]</a>{% endif %}
              {% if post.code %}<a href="{{post.code}}">[code]</a>{% endif %}
              {% if post.poster %}<a href="{{post.poster}}">[poster]</a>{% endif %}
              {% if post.video %}<a href="{{post.video}}">[video]</a>{% endif %}
