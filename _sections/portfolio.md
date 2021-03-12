@@ -11,7 +11,7 @@ order: 3
 <div class="carousel">
   {% for post in site.posts %}
   {% if post.category=='ml' %}
-    <div class="item" style="border: 1px solid black; height: 560px;  background-color: white; margin: 10px; ">
+    <div class="item" style="border: 1px solid black; height: 540px;  background-color: white; margin: 10px; ">
         <a class="image fit" ><img src="{{ post.img_path | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3 style="color: black; font-size: 1em;  font-weight: 700;">{{post.title}}</h3>
@@ -37,13 +37,13 @@ humans spend roughly one third of their lives sleeping and yet so little is know
 <div class="carousel">
   {% for post in site.posts %}
   {% if post.category=='bio' %}
-    <div class="item" style="border: 1px solid black; height: 560px;  background-color: white; margin: 10px; ">
+    <div class="item" style="border: 1px solid black; height: 540px;  background-color: white; margin: 10px; ">
         <a class="image fit" ><img src="{{ post.img_path | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3 style="color: black; font-size: 1em;  font-weight: 700;">{{post.title}}</h3>
           <p style="font-size: 0.7em; text-align: center; ">{{post.authors}} </p>
           <p style="font-size: 0.7em;">{{post.content}}</p>
-          <p>{% if post.paper %}<a href="{{post.paper}}">[{{post.conference}} link]</a>{% endif %}
+          <p>{% if post.paper %}<a href="{{post.paper}}">[{{post.conference}}]</a>{% endif %}
              {% if post.code %}<a href="{{post.code}}">[code]</a>{% endif %}
              {% if post.poster %}<a href="{{post.poster}}">[poster]</a>{% endif %}
              {% if post.video %}<a href="{{post.video}}">[video]</a>{% endif %}
