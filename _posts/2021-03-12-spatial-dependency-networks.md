@@ -4,7 +4,7 @@ layout: default
 img_path: assets/images/sdn.png
 authors: Đorđe Miladinović, Aleksandar Stanić, Stefan Bauer, Jürgen Schmidhuber & Joachim M. Buhmann
 conference: ICLR'21
-paper: https://openreview.net/forum?id=I4c4K9vBNny
+paper: https://arxiv.org/abs/2103.08877
 code: https://github.com/djordjemila/sdn
 category: ml
 ---

@@ -15,7 +15,7 @@ order: 5
 > **Spatial Dependency Networks: Neural Layers for Improved Generative Image Modeling**<br>
   <ins>Ðorđe Miladinović</ins>, Aleksandar Stanić, Stefan Bauer, Jürgen Schmidhuber, and Joachim M. Buhmann<br>
   To appear in the 9th International Conference on Learning Representations, **ICLR 2021**.<br>
-  [[Link to paper]](https://openreview.net/forum?id=I4c4K9vBNny)
+  [[Link to paper]](https://arxiv.org/abs/2103.08877)
   [[bibtex]](https://raw.githubusercontent.com/djordjemila/djordjemila.github.io/master/assets/bibtex/sdn.txt)
 
 > **Instantaneous Metabolic Changes with Sleep Stage Transitions Observed in Exhaled Breath**<br>
