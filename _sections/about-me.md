@@ -4,7 +4,7 @@ icon: fa-user
 order: 2
 ---
 
-<a><img src="assets/images/main.jpg" class="main-img"/></a>
+<a><img src="assets/images/new.jpeg" class="main-img"/></a>
 
 I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html). 
 I develop AI software solutions and offer consulting services. 
