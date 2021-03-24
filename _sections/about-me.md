@@ -6,8 +6,7 @@ order: 2
 
 <a><img src="assets/images/website_compressed.jpeg" class="main-img"/></a>
 
-I am a final year PhD candidate at [ETH Zurich](https://ethz.ch/en.html). 
-I develop AI software solutions and offer consulting services. 
+I am an engineer and a researcher working in the field of AI. I am in the final year of my PhD candidacy at [ETH Zürich](https://ethz.ch/en.html). 
 My current research interest are [deep generative models](https://deepgenerativemodels.github.io/notes/introduction/) e.g. see recently developed [spatial dependency nets](https://github.com/djordjemila/sdn) for image modeling.
 I am enthusiastic about the impact of AI in medicine and biology -- see [our web platform for high-throughput analysis of sleep patterns](https://sleeplearning.ethz.ch/) used daily by academic and industrial researchers worldwide.
 <br><br>
@@ -21,7 +20,7 @@ Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs) to which I am [aff
 and with [the group of Prof. Steven Brown](https://www.pharma.uzh.ch/en/research/chronobiology/areas/chronobiology.html) in an interdisciplinary collaboration.
 Previously, I worked in [Logitech](https://www.logitech.com/en-ch) in Lausanne 
 and in [Disney Research in Zürich](https://studios.disneyresearch.com/about-us/) with [Dr. Paul Beardsley](https://studios.disneyresearch.com/people/paul-beardsley/) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).
-I obtained my master's degree from ETH Zurich and my bachelor's degree from [School of Electrical Engineering in Belgrade](https://www.etf.bg.ac.rs/en#gsc.tab=0), both in computer science.
+I obtained my master's degree from ETH Zürich and my bachelor's degree from [School of Electrical Engineering in Belgrade](https://www.etf.bg.ac.rs/en#gsc.tab=0), both in computer science.
 <br><br>
 
 I am originally from Serbia, born in [Belgrade](https://en.wikipedia.org/wiki/Belgrade) in 1990, grew up in [Kruševac](https://en.wikipedia.org/wiki/Kru%C5%A1evac). Correct English spelling of my name is Djordje Miladinovic 
