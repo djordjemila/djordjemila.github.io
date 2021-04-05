@@ -6,17 +6,17 @@ order: 2
 
 <a><img src="assets/images/website_compressed.jpeg" class="main-img"/></a>
 
-I am an engineer and a researcher working in the field of AI. I am in the final year of my PhD candidacy at [ETH Zürich](https://ethz.ch/en.html). 
-My current research interest are [deep generative models](https://deepgenerativemodels.github.io/notes/introduction/) e.g. see recently developed [spatial dependency nets](https://github.com/djordjemila/sdn) for image modeling.
-I am enthusiastic about the impact of AI in medicine and biology -- see [our web platform for high-throughput analysis of sleep patterns](https://sleeplearning.ethz.ch/) used daily by academic and industrial researchers worldwide.
+I am a software engineer and a machine learning researcher. Currently, I am ending my PhD at [ETH Zürich](https://ethz.ch/en.html). 
+My main research interest are [deep generative models](https://deepgenerativemodels.github.io/notes/introduction/) -- see our new [SDN-VAE](https://github.com/djordjemila/sdn) for image modeling.
+I am also enthusiastic about applying machine learning to biology -- see [our web platform for automatic analysis of sleep patterns](https://sleeplearning.ethz.ch/) used daily by biologists worldwide.
 <br><br>
 
 
-At ETH I work under the guidance of 
+At ETH I work with 
 [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
 During my time at ETH, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), 
 with the [Max Planck Institute for Intelligent Systems](http://ei.is.tuebingen.mpg.de/) led by [Prof. 
-Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs) to which I am [affiliated](https://ei.is.mpg.de/person/dmiladinovic), 
+Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs) to which I am [affiliated](https://learning-systems.org/phds), 
 and with [the group of Prof. Steven Brown](https://www.pharma.uzh.ch/en/research/chronobiology/areas/chronobiology.html) in an interdisciplinary collaboration.
 Previously, I worked in [Logitech](https://www.logitech.com/en-ch) in Lausanne 
 and in [Disney Research in Zürich](https://studios.disneyresearch.com/about-us/) with [Dr. Paul Beardsley](https://studios.disneyresearch.com/people/paul-beardsley/) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).

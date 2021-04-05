@@ -1,0 +1,6 @@
+@article{carvalho2021spatially,
+  title={Spatially Dependent U-Nets: Highly Accurate Architectures for Medical Imaging Segmentation},
+  author={Carvalho, Jo{\~a}o and Santinha, Jo{\~a}o A and Miladinovi{\'c}, {\DJ}or{\dj}e and Buhmann, Joachim M},
+  journal={arXiv preprint arXiv:2103.11713},
+  year={2021}
+}

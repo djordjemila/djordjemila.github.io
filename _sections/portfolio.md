@@ -19,6 +19,7 @@ order: 3
           <p style="font-size: 0.7em;">{{post.content}}</p>
           <p>{% if post.paper %}<a href="{{post.paper}}">[{{post.conference}}]</a>{% endif %}
              {% if post.code %}<a href="{{post.code}}">[github]</a>{% endif %}
+             {% if post.slides %}<a href="{{post.slides}}">[slides]</a>{% endif %}
              {% if post.poster %}<a href="{{post.poster}}">[poster]</a>{% endif %}
              {% if post.video %}<a href="{{post.video}}">[video]</a>{% endif %}
              {% if post.workshop %}<a href="{{post.workshop_url}}">[{{post.workshop}} workshop]</a>{% endif %}

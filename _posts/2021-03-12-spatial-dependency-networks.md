@@ -6,6 +6,7 @@ authors: Đorđe Miladinović, Aleksandar Stanić, Stefan Bauer, Jürgen Schmidh
 conference: ICLR'21
 paper: https://arxiv.org/abs/2103.08877
 code: https://github.com/djordjemila/sdn
+slides: assets/extra/sdn/slides.pdf
 category: ml
 ---
 

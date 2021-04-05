@@ -5,8 +5,10 @@ order: 5
 ---
 
 > **Spatially Dependent U-Nets: Highly Accurate Architectures for Medical Image Segmentation**<br>
-  Joao Carvalho, Joao Santinha, <ins>Ðorđe Miladinović</ins> and Joachim M. Buhmann<br>
-  Under review.
+  João B. S. Carvalho, João A. Santinha, <ins>Ðorđe Miladinović</ins>, Joachim M. Buhmann<br>
+  arXiv preprint arXiv:2103.11713 <br>
+  [[Link to paper]](https://arxiv.org/abs/2103.11713)
+  [[bibtex]](https://raw.githubusercontent.com/djordjemila/djordjemila.github.io/master/assets/bibtex/sdunet.txt)
 
 > **Dynamic Dropout: Regulating Teacher Forcing in Autoregressive Models**<br>
   <ins>Ðorđe Miladinović</ins> and Joachim M. Buhmann<br>
