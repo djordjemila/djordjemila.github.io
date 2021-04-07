@@ -7,8 +7,8 @@ order: 2
 <a><img src="assets/images/website_compressed.jpeg" class="main-img"/></a>
 
 I am a software engineer and a machine learning researcher. Currently, I am ending my PhD at [ETH Zürich](https://ethz.ch/en.html). 
-My main research interest are [deep generative models](https://deepgenerativemodels.github.io/notes/introduction/) -- see our new [SDN-VAE](https://github.com/djordjemila/sdn) for image modeling.
-I am also enthusiastic about applying machine learning to biology -- see [our web platform for automatic analysis of sleep patterns](https://sleeplearning.ethz.ch/) used daily by biologists worldwide.
+My main research interest is [deep generative modeling](https://deepgenerativemodels.github.io/notes/introduction/) -- see our new [SDN-VAE](https://github.com/djordjemila/sdn) for image modeling.
+I am also enthusiastic about applying machine learning to biology -- see [our web platform for automatic analysis of sleep patterns](https://sleeplearning.ethz.ch/) with over 10.000 submissions worldwide.
 <br><br>
 
 
@@ -23,8 +23,8 @@ I obtained my master's degree from ETH Zürich and my bachelor's degree from the
 <br><br>
 
 I am originally from Serbia, born in [Belgrade](https://en.wikipedia.org/wiki/Belgrade) in 1990, grew up in [Kruševac](https://en.wikipedia.org/wiki/Kru%C5%A1evac). 
-English spelling of my name is Djordje Miladinovic.
-In Serbian, it would be Đorđe Miladinović in [latin](https://en.wikipedia.org/wiki/Gaj%27s_Latin_alphabet)
-and Ђорђе Миладиновић in [cyrillic alphabet](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). 
-If you can pronounce [Django](https://www.imdb.com/title/tt1853728/) or [Djokovic](https://novakdjokovic.com/en/) then you can also pronounce Djordje.
+The English spelling of my name is Djordje Miladinovic.
+In Serbian, it would be Đorđe Miladinović in [Latin](https://en.wikipedia.org/wiki/Gaj%27s_Latin_alphabet)
+and Ђорђе Миладиновић in [Cyrillic alphabet](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). 
+If you can pronounce [Django](https://www.imdb.com/title/tt1853728/) or [Djokovic](https://novakdjokovic.com/en/), then you can also pronounce Djordje.
 <br><br>
