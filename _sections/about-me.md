@@ -22,7 +22,7 @@ and [Disney Research in Zürich](https://studios.disneyresearch.com/about-us/) w
 I obtained my MS from ETH Zürich and my BS from the [University of Belgrade](https://www.etf.bg.ac.rs/en#gsc.tab=0), both in computer science.
 <br><br>
 
-I am originally from Serbia, born in [Belgrade](https://en.wikipedia.org/wiki/Belgrade) in 1990, grew up in [Kruševac](https://en.wikipedia.org/wiki/Kru%C5%A1evac). 
+I was born in [Belgrade, Serbia](https://en.wikipedia.org/wiki/Belgrade) in 1990. 
 The English spelling of my name is Djordje Miladinovic.
 In Serbian, it would be Đorđe Miladinović in [Latin](https://en.wikipedia.org/wiki/Gaj%27s_Latin_alphabet)
 and Ђорђе Миладиновић in [Cyrillic alphabet](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). 
