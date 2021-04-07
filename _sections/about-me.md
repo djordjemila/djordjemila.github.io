@@ -12,14 +12,14 @@ I am also enthusiastic about applying machine learning to biology -- see [our we
 <br><br>
 
 
-At ETH I work with [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
-During my time at ETH, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), 
+At ETH, I work with [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
+I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/), 
 with the [Max Planck Institute for Intelligent Systems](http://ei.is.tuebingen.mpg.de/) led by [Prof. 
-Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs) to which I am [affiliated](https://learning-systems.org/phds), 
-and with [the group of Prof. Steven Brown](https://www.pharma.uzh.ch/en/research/chronobiology/areas/chronobiology.html) in an interdisciplinary collaboration.
+Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs), to which I am [affiliated](https://learning-systems.org/phds), 
+and with [the group of Prof. Steven Brown](https://www.pharma.uzh.ch/en/research/chronobiology/areas/chronobiology.html) in interdisciplinary collaboration.
 Previously, I worked in [Logitech](https://www.logitech.com/en-ch) in Lausanne 
-and in [Disney Research in Zürich](https://studios.disneyresearch.com/about-us/) with [Dr. Paul Beardsley](https://studios.disneyresearch.com/people/paul-beardsley/) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).
-I obtained my master's degree from ETH Zürich and my bachelor's degree from [School of Electrical Engineering in Belgrade](https://www.etf.bg.ac.rs/en#gsc.tab=0), both in computer science.
+and [Disney Research in Zürich](https://studios.disneyresearch.com/about-us/) with [Dr. Paul Beardsley](https://studios.disneyresearch.com/people/paul-beardsley/) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).
+I obtained my master's degree from ETH Zürich and my bachelor's degree from the [School of Electrical Engineering in Belgrade](https://www.etf.bg.ac.rs/en#gsc.tab=0), both in computer science.
 <br><br>
 
 I am originally from Serbia, born in [Belgrade](https://en.wikipedia.org/wiki/Belgrade) in 1990, grew up in [Kruševac](https://en.wikipedia.org/wiki/Kru%C5%A1evac). 
