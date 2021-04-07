@@ -1,5 +1,5 @@
 ---
-title: Spatial Dependency Networks & SDN-VAE
+title: Spatial Dependency Nets & SDN-VAE
 layout: default
 img_path: assets/images/sdn.png
 authors: Đorđe Miladinović, Aleksandar Stanić, Stefan Bauer, Jürgen Schmidhuber & Joachim M. Buhmann
