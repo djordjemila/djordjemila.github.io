@@ -19,7 +19,7 @@ Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs), to which I am [af
 I also worked with [the group of Prof. Steven Brown](https://www.pharma.uzh.ch/en/research/chronobiology/areas/chronobiology.html) in interdisciplinary collaboration.
 Previously, I worked in [Logitech](https://www.logitech.com/en-ch) in Lausanne 
 and [Disney Research in Zürich](https://studios.disneyresearch.com/about-us/) with [Dr. Paul Beardsley](https://studios.disneyresearch.com/people/paul-beardsley/) and [Prof. Otmar Hilliges](https://ait.ethz.ch/people/hilliges/).
-I obtained my master's degree from ETH Zürich and my bachelor's degree from the [School of Electrical Engineering in Belgrade](https://www.etf.bg.ac.rs/en#gsc.tab=0), both in computer science.
+I obtained my MS from ETH Zürich and my BS from the [University of Belgrade](https://www.etf.bg.ac.rs/en#gsc.tab=0), both in computer science.
 <br><br>
 
 I am originally from Serbia, born in [Belgrade](https://en.wikipedia.org/wiki/Belgrade) in 1990, grew up in [Kruševac](https://en.wikipedia.org/wiki/Kru%C5%A1evac). 
