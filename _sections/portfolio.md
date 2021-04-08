@@ -4,9 +4,6 @@ icon: fa-th
 order: 3
 ---
 
-The first line of my research is deep generative modeling with a particular focus on variational autoencoders and deep autoregressive models. 
-I explore improved techniques for learning probability models (density estimation) and discovering 'useful' and structured representations in an unsupervised fashion.
-
 <p>The first line of my research is deep generative modeling with a particular focus on
 <a href="https://arxiv.org/abs/1906.02691">variational autoencoders</a> and <a href="https://deepgenerativemodels.github.io/notes/autoregressive/">deep autoregressive models</a>.
   I explore techniques for learning probabilistic models (density estimation) and discovering 'useful' and structured representations in an unsupervised fashion. </p>
