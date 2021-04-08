@@ -4,9 +4,12 @@ icon: fa-th
 order: 3
 ---
 
-<p>The first line of my research are deep generative models with the particular focus on
+The first line of my research is deep generative modeling with a particular focus on variational autoencoders and deep autoregressive models. 
+I explore improved techniques for learning probability models (density estimation) and discovering 'useful' and structured representations in an unsupervised fashion.
+
+<p>The first line of my research is deep generative modeling with a particular focus on
 <a href="https://arxiv.org/abs/1906.02691">variational autoencoders</a> and <a href="https://deepgenerativemodels.github.io/notes/autoregressive/">deep autoregressive models</a>.
-  I explore improved techniques for learning probability models (density estimation) and discovering 'useful' and structured representations in an unsupervised fashion. </p>
+  I explore techniques for learning probabilistic models (density estimation) and discovering 'useful' and structured representations in an unsupervised fashion. </p>
 
 <div class="carousel">
   {% for post in site.posts %}
@@ -32,8 +35,8 @@ order: 3
 </div>
 
 
-<p>The second line of my research are the applications of deep learning to biological and medical data. I am particularly intrigued by sleep -- 
-humans spend roughly one third of their lives sleeping and yet so little is known about this mysterious phenomenon. </p>
+<p>The second line of my research is the application of deep learning to biological and medical data. 
+I am particularly intrigued by sleep -- humans spend roughly one-third of their lives sleeping and yet so little is known about this mysterious phenomenon. </p>
 
 <div class="carousel">
   {% for post in site.posts %}
