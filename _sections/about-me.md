@@ -6,14 +6,10 @@ order: 2
 
 <a><img src="assets/images/website_compressed.jpeg" class="main-img"/></a>
 
-I am a machine learning engineer and researcher. Currently, I am ending my PhD at [ETH Zürich](https://ethz.ch/en.html). 
-My main research interest is [deep generative modeling](https://deepgenerativemodels.github.io/notes/introduction/) -- see our new [SDN-VAE](https://github.com/djordjemila/sdn) for image modeling.
-I am also enthusiastic about applying machine learning to biology -- see [our web platform for automatic analysis of sleep patterns](https://sleeplearning.ethz.ch/) with over 10.000 submissions worldwide.
-<br><br>
+I am a machine learning engineer and researcher at [GSK-AI](https://www.gsk.ai) where I work on enabling data-driven drug development. I am particularly enthusiastic about deep learning, generative modeling, and applying machine learning to biology and healthcare.
 
-
-At ETH, I work with [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
-I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) and 
+I obtained my PhD from [ETH Zürich](https://ethz.ch/en.html) where I worked with [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
+During my time at ETH, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) and 
 with the [Max Planck Institute for Intelligent Systems](http://ei.is.tuebingen.mpg.de/) led by [Prof. 
 Bernhard Schölkopf](http://ei.is.tuebingen.mpg.de/person/bs), to which I am [affiliated](https://learning-systems.org/phds).
 I also worked with [the group of Prof. Steven Brown](https://www.pharma.uzh.ch/en/research/chronobiology/areas/chronobiology.html) in interdisciplinary collaboration.
