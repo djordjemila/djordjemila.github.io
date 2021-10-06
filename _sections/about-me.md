@@ -7,6 +7,7 @@ order: 2
 <a><img src="assets/images/website_compressed.jpeg" class="main-img"/></a>
 
 I am a machine learning engineer and researcher at [GSK-AI](https://www.gsk.ai) where I work on enabling data-driven drug development. I am particularly enthusiastic about deep learning, generative modeling, and applying machine learning to biology and healthcare.
+<br><br>
 
 I obtained my PhD from [ETH Zürich](https://ethz.ch/en.html) where I worked with [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
 During my time at ETH, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) and 
