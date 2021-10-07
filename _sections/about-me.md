@@ -23,5 +23,4 @@ I was born in [Belgrade, Serbia](https://en.wikipedia.org/wiki/Belgrade) in 1990
 The English spelling of my name is Djordje Miladinovic.
 In Serbian, it would be Đorđe Miladinović in [Latin](https://en.wikipedia.org/wiki/Gaj%27s_Latin_alphabet)
 and Ђорђе Миладиновић in [Cyrillic alphabet](https://en.wikipedia.org/wiki/Serbian_Cyrillic_alphabet). 
-If you can pronounce [Django](https://www.imdb.com/title/tt1853728/) or [Djokovic](https://novakdjokovic.com/en/), then you can also pronounce Djordje.
 <br><br>
