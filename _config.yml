@@ -48,7 +48,7 @@ url: "" # the base hostname & protocol for your site
 facebook_url:
 googleplus_url:
 instagram_url:
-cv_url: assets/extra/CV.pdf
+cv_url:
 googlescholar_url: https://scholar.google.com/citations?user=t81PmsgAAAAJ&hl=en&oi=ao
 linkedin_url: https://www.linkedin.com/in/djordjemila/
 github_url: https://github.com/djordjemila
