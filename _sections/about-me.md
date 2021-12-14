@@ -4,7 +4,7 @@ icon: fa-user
 order: 2
 ---
 
-<a><img src="assets/images/website_compressed.jpeg" class="main-img"/></a>
+<a><img src="assets/images/bio_image_1.JPG" class="main-img"/></a>
 
 I am a machine learning engineer and researcher at [GSK-AI](https://www.gsk.ai) where I work on data-driven drug development. I am enthusiastic about deep learning, generative modeling, and applying machine learning to biology and healthcare.
 <br><br>
