@@ -2,9 +2,6 @@
 title: Đorđe Miladinović
 ---
 
-_sections/about_me.md
-
-
 <a><img src="assets/images/headshot_gsk.jpg" class="main-img"/></a>
 *AI/ML research engineer*
 
