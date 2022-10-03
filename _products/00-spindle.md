@@ -1,5 +1,5 @@
 ---
-title: SPINDLE
+title: SPINDLE Sleep Server
 img_path: assets/images/spindle.png
 webpage: https://sleeplearning.ethz.ch
 ---
