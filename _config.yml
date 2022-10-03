@@ -7,7 +7,7 @@ avatar: /images/headshot_gsk.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  cv: assets/CV.pdf
+  cv: /assets/CV.pdf
   googlescholar: user=t81PmsgAAAAJ&hl=en&oi=ao
   linkedin: djordjemila
   github: djordjemila
