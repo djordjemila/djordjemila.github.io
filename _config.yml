@@ -23,8 +23,8 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
-google_analytics: UA-43339302-11
-#google_analytics_ga4: G-GABC1DEFG
+google_analytics:
+google_analytics_ga4: BR2X96PJKE
 
 # Your website URL
 url: https://djordjemila.github.io/
