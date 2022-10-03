@@ -1655,7 +1655,7 @@ code {
 
 .main-img {
   float: left;
-  width: 20em;
+  width: 15em;
   padding-bottom: 30px;
   margin-right: 5%;
   max-width: 100%;
@@ -1686,4 +1686,10 @@ body {
 
 .image-fit {
   float: right;
+}
+
+@media screen and (max-width: 550px) {
+  .main-img {
+    width: 100%;
+  }
 }
