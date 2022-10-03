@@ -15,9 +15,7 @@ What follows is a selection of my research projects. See also the [full & up-to-
   {% for project in site.projects reversed %}
     <hr>
     <div class="item" >
-        <div class="image-fit" >
-            <img class="project-img" src="{{ project.img_path | relative_url }}" alt="Ipsum Feugiat" />
-        </div>
+        <img class="project-img" src="{{ project.img_path | relative_url }}" alt="Ipsum Feugiat" />
         <h5 style="text-align: left">{{project.title}}</h5>
         <header>
           <p>{% if project.paper %}<a href="{{project.paper}}">[{{project.conference}}]</a>{% endif %}

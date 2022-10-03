@@ -15,10 +15,10 @@ The ultimate goal of my work is to create "intelligent" software that automates 
 Here are a couple of examples:
 
 <div>
-  {% for product in site.products reversed %}
+  {% for product in site.products %}
     <hr>
     <div class="item" >
-        <div class="image-fit" >
+        <div  >
             <img class="product-img" src="{{ product.img_path | relative_url }}" alt="Ipsum Feugiat" />
         </div>
         <h5 style="text-align: left"><a href="{{product.webpage}}">{{product.title}}</a>{% if product.url %}{% endif %}</h5>
