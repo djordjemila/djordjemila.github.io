@@ -1,0 +1,41 @@
+
+.section-title {
+  text-align: left;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.main-img {
+  float: left;
+  width: 14em;
+  padding-bottom: 30px;
+  margin-right: 5%;
+  max-width: 100%;
+  min-width: 25%;
+}
+
+.logos {
+  width: 6em;
+}
+
+.logos-div {
+  float: right;
+  width: 8em;
+  justify-content: space-around;
+}
+
+.section {
+  overflow: hidden;
+}
+
+body {
+  font-size: 16px;
+}
+
+.project-img {
+  width: 15em;
+}
+
+.image-fit {
+  float: right;
+}

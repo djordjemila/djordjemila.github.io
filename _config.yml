@@ -1,65 +1,77 @@
-# From here: https://github.com/daviddarnes/alembic
+# From: https://github.com/amitmerchant1990/reverie
 
-# Set theme
-remote_theme: daviddarnes/alembic@main
+# Basic settings
+name: Djordje Miladinovic
+description: AI/ML Research Engineer
+avatar: /images/headshot_gsk.jpg
 
+# Includes an icon in the footer for each username you enter
+footer-links:
+  cv: assets/CV.pdf
+  googlescholar: user=t81PmsgAAAAJ&hl=en&oi=ao
+  linkedin: djordjemila
+  github: djordjemila
+  twitter: djordjemila
+  email: djordjemethz@gmail.com
+  facebook:
+  flickr:
+  instagram:
+  pinterest:
+  rss:
+  stackoverflow: 
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+  playconsole:
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+google_analytics: UA-43339302-11
+#google_analytics_ga4: G-GABC1DEFG
 
-# Set plugins
+# Your website URL
+url: https://djordjemila.github.io/
+enforce_ssl: https://djordjemila.github.io/
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+permalink: /:title/
+
+# The release of Jekyll Now that you're using
+version: v1.2.0
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-remote-theme
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
+  - jekyll-paginate
 
-# Site settings
-url: 'https://mydomain.com'
-baseurl: ''
-title: 'Đorđe Miladinović'
-description: 'This is my new website'
-permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+include: ['_pages']
 
-# Pagination
-paginate: 5
-paginate_path: blog/page:num
+paginate: 6
+paginate_path: /page:num/
 
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /home/
-- title: Blog
-  url: /blog/
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - start_locally.sh
 
-# Footer nav
-navigation_footer:
-- title: Back to top
-  url: "#top"
 
-# Collection settings
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
+collections:
+  - sections
+  - projects

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="sections">
+  {% for section in site.sections %}
+    <div class="section">
+      <h4 class="section-title">{{ section.title }}</h4>
+      <div class="content">
+        {{ section.content }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
