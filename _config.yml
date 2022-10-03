@@ -75,3 +75,4 @@ exclude:
 collections:
   - sections
   - projects
+  - products

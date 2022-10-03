@@ -3,6 +3,6 @@ layout: post
 title: Interests
 ---
 * Problem-oriented R&D of AI/ML methodology; especially large-scale and deep learning.
-* Meticulous, viable, and clean software design and development.
-* AI/ML in healthcare; applications to medicine and biology.
-* Organizing and taking projects from concept to working system.
+* Meticulous, viable, clean, re-usable software development -- I expect engineering to be of central importance in most major advances that are yet to come in AI/ML.
+* Applications of AI/ML to healthcare and biology.
+* Organizing and taking large projects from concept to working system.
