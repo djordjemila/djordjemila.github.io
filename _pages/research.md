@@ -4,7 +4,13 @@ title: ""
 permalink: /research/
 ---
 
-
+<div style="font-style: italic; font-size: 0.9em;">
+“The best thing about being a statistician, is that you get to play in everyone’s backyard.”
+<br>
+<br>
+- John Tukey
+</div>
+<br>
 My research interests are twofold:
 * Deep learning with emphasis on probabilistic generative models, e.g. variational autoencoders.
 * Applications of machine learning to real-life settings, e.g. biological and medical data.
