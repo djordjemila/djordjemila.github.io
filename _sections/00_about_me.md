@@ -6,4 +6,4 @@ title: ""
 
 Working at [GSK](https://www.gsk.com) on drug discovery, since 2021. 
 
-I develop machine learning tools to analyze and process high-dimensional, multi-modal high-throughput experimental data, driving insights and innovation in preclinical drug discovery. My mission is to create a computational platform that enables robust, accurate, and interpretable identification of genetic targets critical to understanding and treating diseases."
+I develop machine learning tools to analyze and process high-dimensional, multi-modal high-throughput experimental data, driving insights and innovation in preclinical drug discovery. I am building foundation models to enable robust, accurate, and interpretable identification of genetic targets critical to understanding and treating diseases."
