@@ -7,6 +7,7 @@ title: Previously
     <img src="assets/logos/eth_zurich.png" class="logos"/>
     <img src="assets/logos/mpi.png" class="logos"/>
 </div> --->
+* *[2021-2025]* At [GSK](https://www.gsk.ai/), I developed machine learning tools to analyze and process high-dimensional, multi-modal high-throughput experimental data, unlocking insights and driving innovation in preclinical drug discovery. I worked on foundational models designed to enable robust, accurate, and interpretable identification of genetic targets critical for understanding and treating diseases.
 * *[2017-2021]* Obtained AI/ML-focused PhD from [ETH Zürich](https://ethz.ch/en.html) with [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
 During my time at ETH, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) and 
 with the [Max Planck Institute for Intelligent Systems](http://ei.is.tuebingen.mpg.de/) led by [Prof. 
