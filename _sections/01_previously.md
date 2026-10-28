@@ -7,6 +7,7 @@ title: Previously
     <img src="assets/logos/eth_zurich.png" class="logos"/>
     <img src="assets/logos/mpi.png" class="logos"/>
 </div> --->
+* *[2025-2026]* Worked at [Meta, Reality Labs](https://tech.facebook.com/reality-labs/) on agentic AI. I developed elements of an agentic AI framework that powers Meta’s wearable devices, enabling immersive, intelligent experiences for millions of users worldwide.
 * *[2021-2025]* Drug discovery at [GSK](https://www.gsk.ai/) - I developed ML tools to analyze and process high-dimensional, multi-modal high-throughput experimental data, unlocking insights and driving innovation in preclinical drug discovery.
 * *[2017-2021]* Obtained AI/ML-focused PhD from [ETH Zürich](https://ethz.ch/en.html) with [Prof. Joachim. M. Buhmann](https://inf.ethz.ch/people/person-detail.buhmann.html).
 During my time at ETH, I collaborated with [Swiss AI lab IDSIA](http://idsia.ch/) led by [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~juergen/) and 
